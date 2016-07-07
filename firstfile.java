@@ -14,3 +14,6 @@
 
 //git push -- push will push all your code from your local machine onto the 
 //master copy/version in the github reposotory so everyone can see or clone
+
+//git pull -- pull will pull all the most recentcode on github to your 
+//local machine
