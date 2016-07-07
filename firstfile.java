@@ -5,6 +5,8 @@
 //git status -- status will tell you which files github does not have yet
 
 //git add -- add will add the file from your machine to github respostory
+//git add -A
+//This stands for git add ALL
 
 //git commit -- commit will lock in the files you add to github, because
 //the add commit simply adds the file to github but doesnt 'commit' or 
