@@ -25,6 +25,10 @@
 
 //git branch entername -- branch will create new branch seperate from master
 
-//git checkout entername -- checkout will switch you over from master branch to //whatever branch you entered
+//git checkout entername -- checkout will switch you over from master branch to 
+//whatever branch you entered
 
 //git merge entername -- merge master branch with what ever branch you enter
+
+//git branch -D entername -- the -D flag will delete whatever name branch you
+//entered onto the command line
