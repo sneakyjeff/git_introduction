@@ -19,3 +19,7 @@
 
 //git pull -- pull will pull all the most recentcode on github to your 
 //local machine
+
+//git branch entername -- branch will create new branch seperate from master
+
+//git checkout entername -- checkout will switch you over from master branch to //whatever branch you entered
