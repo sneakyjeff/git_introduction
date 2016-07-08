@@ -22,6 +22,8 @@
 
 //git branch -- if you simply enter git branch, you will see a list of all the 
 //branches in your workspace
+(when you work on your branch, it doesnt affect any of the code of the master branch
+until you merge them together)
 
 //git branch entername -- branch will create new branch seperate from master
 
@@ -32,3 +34,6 @@
 
 //git branch -D entername -- the -D flag will delete whatever name branch you
 //entered onto the command line
+
+//git push origin entername -- origin will push your files to only the branch
+//that you enter and not the master branch
