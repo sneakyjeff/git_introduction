@@ -26,3 +26,5 @@
 //git branch entername -- branch will create new branch seperate from master
 
 //git checkout entername -- checkout will switch you over from master branch to //whatever branch you entered
+
+//git merge entername -- merge master branch with what ever branch you enter
